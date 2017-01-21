@@ -1,0 +1,10 @@
+.externalToolBuilders
+.idea/
+out/
+*.iml
+.svn
+.settings/
+target/
+.classpath
+.project
+classes
